@@ -13,5 +13,11 @@
         "postcss": "^8.4.31",
         "tailwindcss": "^3.1.0",
         "vite": "^5.0.0"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.5.1",
+        "fullcalendar": "^6.1.11",
+        "google-charts": "^2.0.0",
+        "trix": "^2.0.10"
     }
 }
